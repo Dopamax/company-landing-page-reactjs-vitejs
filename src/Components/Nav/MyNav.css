@@ -1,0 +1,14 @@
+
+.links-size{
+    font-size: 10px;
+}
+
+.links{
+    padding-right:10px;
+    padding-left:10px;
+    color: white;
+}
+.links:hover{
+    background-color: white;
+    color: dodgerblue;
+}

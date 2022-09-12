@@ -1,0 +1,12 @@
+.header{
+    width: auto;
+}
+
+@media only screen and (max-width: 460px){
+
+    .header{
+        position: relative;
+        margin-top: -100px;
+
+    }
+}

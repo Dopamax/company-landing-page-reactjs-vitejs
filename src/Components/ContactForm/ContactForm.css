@@ -1,0 +1,11 @@
+.contactForm{
+    height: calc(100vh - 100px);
+}
+
+@media only screen and (max-width: 460px){
+    
+    .contactForm{
+        height: calc(200%);
+    }
+
+}

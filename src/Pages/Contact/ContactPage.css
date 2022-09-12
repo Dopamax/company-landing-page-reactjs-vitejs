@@ -1,0 +1,17 @@
+.contactPage{
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+@media only screen and (max-width: 460px){
+    
+    .contactPage{
+        height: calc(100%);
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    }
+
+}
